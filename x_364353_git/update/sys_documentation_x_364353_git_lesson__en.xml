@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="SalesGit" language="en" table="x_364353_git_salesgit">
+    <sys_documentation element="" label="Lesson" language="en" table="x_364353_git_lesson">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>SalesGit</label>
+            <label>Lesson</label>
             <language>en</language>
-            <name>x_364353_git_salesgit</name>
-            <plural>SalesGits</plural>
+            <name>x_364353_git_lesson</name>
+            <plural>Lessons</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>code365</sys_created_by>
-            <sys_created_on>2020-04-20 09:20:57</sys_created_on>
-            <sys_id>f5110861dbd010108fb7146139961929</sys_id>
+            <sys_created_on>2020-04-20 09:39:37</sys_created_on>
+            <sys_id>5f55c465dbd010108fb71461399619e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>SalesGit</sys_name>
+            <sys_name>Lesson</sys_name>
             <sys_package display_value="Git" source="x_364353_git">75be3f9ddb9010108fb71461399619e5</sys_package>
             <sys_policy/>
             <sys_scope display_value="Git">75be3f9ddb9010108fb71461399619e5</sys_scope>
-            <sys_update_name>sys_documentation_x_364353_git_salesgit__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_364353_git_lesson__en</sys_update_name>
             <sys_updated_by>code365</sys_updated_by>
-            <sys_updated_on>2020-04-20 09:20:57</sys_updated_on>
+            <sys_updated_on>2020-04-20 09:39:37</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
