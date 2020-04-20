@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_364353_git.roleb" name="x_364353_git.roleb">a6ce339ddb9010108fb71461399619f6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>code365</sys_created_by>
+        <sys_created_on>2020-04-20 09:10:54</sys_created_on>
+        <sys_id>e2ceb3dddb9010108fb714613996199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a6ce339ddb9010108fb71461399619f6</sys_name>
+        <sys_package display_value="Git" source="x_364353_git">75be3f9ddb9010108fb71461399619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git">75be3f9ddb9010108fb71461399619e5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e2ceb3dddb9010108fb714613996199c</sys_update_name>
+        <sys_updated_by>code365</sys_updated_by>
+        <sys_updated_on>2020-04-20 09:10:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
